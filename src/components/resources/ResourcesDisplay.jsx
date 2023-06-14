@@ -5,6 +5,7 @@ import resources from "./resources.json";
 import ResourcesPage from "./ResourcesPage";
 import "./resourcesDisplay.css";
 
+
 function ResourcesDisplay() {
   const [hovered, setHovered] = useState(null);
 

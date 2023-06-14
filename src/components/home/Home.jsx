@@ -2,6 +2,7 @@ import React from 'react'
 import './home.css';
 import Data from './Data';
 import mp4 from '../../assets/constalation.mp4';
+import ResourcesDisplay from '../resources/ResourcesDisplay'; 
 
 
 
@@ -22,6 +23,7 @@ const Home = () => {
 
             
         </div>
+        <ResourcesDisplay /> {/* Display the ResourcesDisplay component here */}
     </section>
   )
 }
