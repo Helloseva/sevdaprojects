@@ -2,6 +2,8 @@ import React from "react";
 import "../header/header.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Link } from "react-router-dom";
+import resumeFile from "../../assets/resume.pdf";
+
 
 const Header = () => {
   return (
@@ -30,6 +32,13 @@ const Header = () => {
                 <i className="uil uil-megaphone nav_icon"></i> Contact
               </Link>
             </li>
+
+            <li className="nav_item">
+            <a href={resumeFile} target="_blank" rel="noopener noreferrer" className="nav_link">
+    <i className="uil uil-megaphone nav_icon"></i> Resume
+  </a>  
+            </li>
+
           </ul>
 
           <i className="uil uil-times nav_close"></i>
