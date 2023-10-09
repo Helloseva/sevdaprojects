@@ -33,17 +33,26 @@
     "githubLink": "https://github.com/Helloseva/Eco-Travel-Planner",
     "urlLink": "https://omar-ahm.github.io/Eco-Travel-Planner/"
   },
+
   {
     "id": 5,
+    "title": "Cards Nextjs",
+    "image": "images/edx.png",
+    "description": " Nextjs, React, JavaScript, Font Awesome ",
+    "githubLink": "https://github.com/Helloseva/cards-nextjs",
+    "urlLink": "https://nextjs-cards.netlify.app/"
+  },
+  {
+    "id": 6,
     "title": "Password Generator",
     "image": "images/weater.png",
     "description": "HTML, JavaScript, CSS, jQuery.",
     "githubLink": "https://github.com/Helloseva/Password-Generator",
-    "urlLink": "https://helloseva.github.io/challenge5-PasswordGenerator/"
+    "urlLink": "https://helloseva.github.io/Password-Generator/"
   },
 
   {
-    "id": 6,
+    "id": 7,
     "title": "Portfolio",
     "image": "images/odin.png",
     "description": "React, Vite, Node, JavaScript, CSS",
@@ -51,21 +60,14 @@
     "urlLink": "https://sevdawebdev.netlify.app/"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Weekly Planner",
     "image": "images/coursera.jpeg",
     "description": "HTML, JavaScript, CSS, Jquery",
     "githubLink": "https://github.com/Helloseva/WeeklyPlanner",
-    "urlLink": "https://helloseva.github.io/Challenge7-WeeklyPlanner/"
+    "urlLink": "https://helloseva.github.io/WeeklyPlanner/"
   },
-  {
-    "id": 8,
-    "title": "Cards Nextjs",
-    "image": "images/edx.png",
-    "description": " Nextjs, React, JavaScript, Font Awesome ",
-    "githubLink": "https://github.com/Helloseva/cards-nextjs",
-    "urlLink": "https://github.com/Helloseva/cards-nextjs"
-  },
+
   {
     "id": 9,
     "title": "Coding Quiz",
